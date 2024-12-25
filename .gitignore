@@ -1,0 +1,110 @@
+# ===========================
+# Compiled Object Files
+# ===========================
+*.o
+*.obj
+
+# ===========================
+# Compiled Libraries
+# ===========================
+# Static Libraries
+*.a
+*.lib
+
+# Shared Libraries
+*.so
+*.dll
+*.dylib
+
+# ===========================
+# Executables
+# ===========================
+*.exe
+*.out
+*.app
+*.bat
+*.sh
+
+# ===========================
+# Build Directories
+# ===========================
+/bin/
+/obj/
+/lib/
+/build/
+/dist/
+
+# ===========================
+# Temporary Files
+# ===========================
+*.tmp
+*.log
+*.cache
+
+# ===========================
+# Backup and Swap Files
+# ===========================
+*~
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# ===========================
+# IDE and Editor Specific Files
+# ===========================
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# CLion
+.idea/
+*.iml
+
+# Eclipse
+.project
+.cproject
+.settings/
+
+# Qt Creator
+*.pro.user
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Vim
+*.swp
+*.swo
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# ===========================
+# OS Specific Files
+# ===========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ===========================
+# Other Files to Ignore
+# ===========================
+
+# Compiled Python files (if any)
+__pycache__/
+*.py[cod]
+
